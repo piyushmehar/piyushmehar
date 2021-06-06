@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on GFG
 - 🌱 I’m currently learning CS
 - 👯 I’m looking to collaborate on open source 
-- 🤔 I’m looking for help with coading 
-- 💬 Ask me about music
+- 🤔 I’m looking for help with coding 
 - 📫 How to reach me: https://twitter.com/piyushmehar 
- 
+- 🌟Linked In https://www.linkedin.com/in/piyush-mehar-77299b1b0/
 
