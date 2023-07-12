@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushmehar&label=Profile%20views&color=0e75b6&style=flat" alt="piyushmehar" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently learning **Machine Learning and Development**
 
 - 📫 How to reach me **piyushmehar16@gmail.com**
 
